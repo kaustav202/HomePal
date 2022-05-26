@@ -1,6 +1,6 @@
 # HomePal
 
-A all in one online platform for everything related to real estate. Buy, sell or rent your desired asset effortlessly through this portal.
+An all in one online platform for everything related to real estate. Buy, sell or rent your desired asset effortlessly through this portal.
 
 
 ## Running Locally
